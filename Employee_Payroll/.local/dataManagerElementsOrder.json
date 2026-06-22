@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "attachments&Sequence_49",
+        "filepath&Sequence_31",
+        "empName&Sequence_31",
+        "empEmail&Sequence_31",
+        "dtReport&Sequence_30",
+        "netSalaryFromReport&Sequence_31",
+        "payslipPath&Sequence_31",
+        "dtPayslip&Sequence_31",
+        "payslipPath&Sequence_30",
+        "dtAttendance&Sequence_30",
+        "dtpayroll&Sequence_30",
+        "NetSalary&Sequence_30",
+        "PresentDays&Sequence_30",
+        "SalaryPerDay&Sequence_30",
+        "basicSalary&Sequence_31",
+        "workingDays&Sequence_31",
+        "perDaySalary&Sequence_31",
+        "netSalary&Sequence_31",
+        "totalDays&Sequence_31",
+        "leaveDays&Sequence_31",
+        "overtimeDays&Sequence_31",
+        "overtimePay&Sequence_31",
+        "finalSalary&Sequence_31",
+        "allowedOvertimeDays&Sequence_31",
+        "role&Sequence_31"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
